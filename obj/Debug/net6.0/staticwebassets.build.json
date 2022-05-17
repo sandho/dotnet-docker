@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Era092sFwdrr5GBWH/aaDWDye+Yf9BNRIbRoMldHszY=",
+  "Source": "docker-dotnetcore-api",
+  "BasePath": "_content/docker-dotnetcore-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
